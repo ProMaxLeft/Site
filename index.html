@@ -1,4 +1,3 @@
-По всем вопросам обращаться по E-mail: DrEdSupport@mail.ru
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -103,3 +102,4 @@
     <p>&copy; 2023 Dr.Ed Company, все права защищены.</p>
 </body>
 </html>
+По всем вопросам обращаться по E-mail: DrEdSupport@mail.ru
