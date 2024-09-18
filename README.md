@@ -4,61 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	        font-size: 21px;
-    }
-    h1 {
-        font-size: 1.6em;
-    }
-    h2 {
-        font-size: 1.6em;
-    }
-    p {
-        font-size: 1em;
-    }
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            background: rgba(255, 255, 255, 0.8); /* Белый полупрозрачный фон для контейнера */
-            border-radius: 8px; /* Скругленные углы контейнера */
-            padding: 20px; /* Отступы внутри контейнера */
-        }
-        header {
-            background: #ffffff;
-            color: #35424a;
-            padding: 20px 0;
-            text-align: center;
-        }
-        .content {
-            display: flex;
-	    color: #ffffff;
-            margin: 20px 0;
-        }
-        .image {
-            flex: 1;
-            padding: 20px;
-        }
-        .text {
-            flex: 2;
-	    color: #ffffff;
-            padding: 20px;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-        }
-        footer {
-            text-align: center;
-            padding: 10px 0;
-            background: #35424a;
-            color: #ffffff;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+	
 </head>
 <body>
 
