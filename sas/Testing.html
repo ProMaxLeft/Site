@@ -1,4 +1,4 @@
-По всем вопросам обращаться по E-mail: DrEdSupport@mail.ru
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
